@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371309575411",
+    "firebase_url": "https://kingslayer1-baa82.firebaseio.com",
+    "project_id": "kingslayer1-baa82",
+    "storage_bucket": "kingslayer1-baa82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371309575411:android:99284d3aca708bafe90b86",
+        "android_client_info": {
+          "package_name": "com.example.kingslayer1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371309575411-mlls1fcj07hqpra31ms5pimju6j2uutf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBXpWaGhrHfNLkZCNqNYn6PlPGScOywQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371309575411-mlls1fcj07hqpra31ms5pimju6j2uutf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
