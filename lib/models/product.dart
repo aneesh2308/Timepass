@@ -14,9 +14,9 @@ class Product{
   final int type;
   final double rating;
 
-  Product({this.productId,this.experience, this.name,this.url,this.startHour,this.startMin,this.endHour,this.endMin,this.fees,this.field,this.intro,this.languages,this.type,this.rating});
+  Product({this.productId,this.experience, this.name,this.url,this.startHour,this.startMin,this.endHour,this.endMin,this.fees,this.field,this.intro,this.languages,this.type,this.rating,time()});
 
-  Map<String,dynamic> time(){
+  Map time(){
     return {
       'startHour':startHour,
       'startMin':startMin,

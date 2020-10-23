@@ -1,6 +1,7 @@
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:kingslayer1/models/approval.dart';
 import 'package:kingslayer1/models/product.dart';
+import 'package:kingslayer1/models/product.dart';
 import 'package:kingslayer1/services/firestore_service.dart';
 import 'package:flutter/material.dart';
 import 'package:uuid/uuid.dart';
